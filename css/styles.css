@@ -705,6 +705,7 @@ a:focus {
 .form-content {
   width: 360px;
   margin: auto;
+  margin-bottom: 16px;
 }
 textarea {
   resize: none;
