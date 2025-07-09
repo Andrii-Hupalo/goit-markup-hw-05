@@ -48,10 +48,7 @@ a:hover,
 a:focus {
   text-decoration: underline;
 }
-/* svg * {
-  fill: none;
-}
-*, */
+
 ::after,
 ::before {
   box-sizing: border-box;
@@ -521,7 +518,6 @@ a:focus {
 .container-page-footer {
   margin-right: 120px;
   margin-left: 0;
-  padding: 100px 0;
   margin-right: 120px;
 }
 .content-page-footer {
@@ -590,7 +586,7 @@ a:focus {
   align-items: flex-start;
   max-width: 453px;
   padding: 0;
-  margin-left: 40px;
+  margin-left: 80px;
 }
 .subscribe-title {
   font-weight: 500;
@@ -702,11 +698,7 @@ a:focus {
   color: #2e2f42;
   margin-bottom: 16px;
 }
-.form-content {
-  width: 360px;
-  margin: auto;
-  margin-bottom: 16px;
-}
+
 textarea {
   resize: none;
 }
@@ -864,7 +856,6 @@ textarea {
   padding: 16px 32px;
   height: 56px;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  /* background: #4d5ae5; */
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -872,7 +863,6 @@ textarea {
   text-align: center;
   color: #fff;
   margin: auto;
-  /* ----------------------- */
   display: block;
   cursor: pointer;
   background-color: #4d5ae5;
